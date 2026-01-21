@@ -1,4 +1,4 @@
-# Hi 👋, I'm Hashini 
+# Hi 👋, I'm Hashini Nanayakkara
 
 ### 🎓 Undergraduate Software Engineering Student
 
