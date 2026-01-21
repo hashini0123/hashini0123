@@ -2,8 +2,6 @@
 
 ### 🎓 Undergraduate Software Engineering Student
 
-<img align="right" alt="Coding" width="350" src="https://cdni.iconscout.com/illustration/premium/thumb/female-developer-working-on-project-illustration-download-in-svg-png-gif-file-formats--girl-lady-software-engineer-pack-people-illustrations-5381335.png">
-
 - 🔭 I’m currently working on **Java, Spring Boot Projects**
 - 🌱 I’m currently learning **Full Stack Development**
 - 💬 Ask me about **Java, MySQL**
