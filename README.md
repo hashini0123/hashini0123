@@ -9,7 +9,6 @@
 - 💬 Ask me about **Java, MySQL**
 - 📫 Reach me at: **nanayakkarahashini5@gmail.com**
 
----
 
 ### 🛠 My working tools...
 
@@ -22,7 +21,6 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
 
 ### 📊 My GitHub Stats
 
