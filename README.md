@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! I'm Hashini 👋
 
-<!--
-**hashini0123/hashini0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Undergraduate Student & Java Enthusiast
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Hibernate & JavaFX Projects**
+- 🌱 I’m currently learning **Full Stack Development**
+- 💬 Ask me about **Java, MySQL**
+- 📫 Reach me at: **[Your Email Here]**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hashini0123&show_icons=true&theme=radical)
