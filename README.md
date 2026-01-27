@@ -25,6 +25,26 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
+---
+
+### 📊 My GitHub Stats
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=hashini0123&show_icons=true&theme=dark" alt="hashini0123's GitHub stats" height="170px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashini0123&layout=compact&theme=dark" alt="Top Langs" height="170px" />
+</p>
+
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hashini0123&theme=dark" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hashini0123&theme=flat)
+
+---
+
 
 
 
