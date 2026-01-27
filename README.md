@@ -1,12 +1,22 @@
 # Hi 👋, I'm Hashini Nanayakkara
 
-### 🎓 Undergraduate Software Engineering Student
+### 🎓 Undergraduate Software Engineering Student | Java & Spring Boot Enthusiast
 
+---
+
+### 🌐 Connect with me
+<p align="left">
+<a href="https://www.linkedin.com/in/hashini-nanayakkara-11402137a/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:nanayakkarahashini5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+### 🚀 About Me
 - 🔭 I’m currently working on **Java, Spring Boot Projects**
 - 🌱 I’m currently learning **Full Stack Development**
 - 💬 Ask me about **Java, MySQL**
-- 📫 Reach me at: **nanayakkarahashini5@gmail.com**
-
+- ⚡ **Fun Fact:** I love exploring new backend architectures and solving logical problems.
 
 ### 🛠 My working tools...
 
@@ -19,17 +29,25 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
+---
 
 ### 📊 My GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=hashini0123&show_icons=true&theme=radical" alt="hashini0123's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=hashini0123&show_icons=true&theme=radical" alt="hashini0123's GitHub stats" height="170px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashini0123&layout=compact&theme=radical" alt="Top Langs" height="170px" />
 </p>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashini0123&layout=compact&theme=radical" alt="Top Langs" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hashini0123&theme=radical" alt="GitHub Streak" />
 </p>
 
+---
+
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hashini0123&theme=radical)
+
+---
 
 
 
