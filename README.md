@@ -36,10 +36,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hashini0123&theme=radical" alt="GitHub Streak" />
 </p>
 
-### 🏆 GitHub Trophies
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=hashini0123&theme=radical" alt="GitHub Trophies" />
-</p>
+
 
 
 
