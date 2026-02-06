@@ -3,15 +3,15 @@
 ### 🎓 Undergraduate Software Engineering Student | Java & Spring Boot Enthusiast
 
 <p align="left">
-<a href="https://www.linkedin.com/in/hashini-nanayakkara-11402137a/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:nanayakkarahashini5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://img.shields.io/badge/Location-Galle%2C%20Sri%20Lanka-8E44AD?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<a href="mailto:nanayakkarahashini5@gmail.com"><img src="https://img.shields.io/badge/Email-nanayakkarahashini5%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/hashini-nanayakkara-11402137a/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 🚀 About Me
 - 🔭 **Focus:** I am passionate about building robust Backend Architectures and efficient Database Management Systems.
-- 🌱 **Learning:** Currently exploring Advanced Java concepts and Enterprise Application Development.
 - 💬 **Ask me about:** Java, MySQL Database Design, and OOP Principles.
 - ⚡ **Goal:** Creating scalable software solutions that solve real-world problems.
 
@@ -26,14 +26,11 @@
 
 ### 🛠 Tech Stack & Tools
 
-**Languages & Frameworks**
+**Backend & Database**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-
-**Database & Backend**
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-Database-blue.svg?style=for-the-badge&logo=java&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
 **Tools & IDEs**
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -48,13 +45,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashini0123&layout=compact&theme=radical" alt="Top Languages" height="170" />
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hashini0123&theme=radical" alt="GitHub Streak" />
-</p> -->
+</p>
 
-
-
-
+---
+<p align="center">
+  <img src="https://img.shields.io/badge/Dynamic_Time-Refresh_to_Update-blue?style=flat-square&logo=clock" />
+  <br>
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i> 🚀
+</p>
 
 
 
