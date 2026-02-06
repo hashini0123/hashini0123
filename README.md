@@ -1,57 +1,75 @@
 # Hi 👋, I'm Hashini Nanayakkara
 
+
+
 ### 🎓 Undergraduate Software Engineering Student | Java & Spring Boot Enthusiast
 
+
+
+### 🌐 Connect with me
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Location-Galle%2C%20Sri%20Lanka-8E44AD?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <a href="mailto:nanayakkarahashini5@gmail.com"><img src="https://img.shields.io/badge/Email-nanayakkarahashini5%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/hashini-nanayakkara-11402137a/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<a href="https://www.linkedin.com/in/hashini-nanayakkara-11402137a/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+<a href="mailto:nanayakkarahashini5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
 </p>
 
----
+
 
 ### 🚀 About Me
-- 🔭 **Focus:** I am passionate about building robust Backend Architectures and efficient Database Management Systems.
-- 💬 **Ask me about:** Java, MySQL Database Design, and OOP Principles.
-- ⚡ **Goal:** Creating scalable software solutions that solve real-world problems.
 
----
+- 🔭 I’m currently working on **Java, Spring Boot Projects**
 
-### 🗄️ Database Management (DBMS)
-- 🛠️ **Expertise:** Designing Normalized Database Schemas and writing optimized SQL Queries.
-- 📊 **Tools:** Experienced in **MySQL Workbench** for Entity-Relationship (ER) modeling.
-- ⚙️ **Integration:** Skilled in connecting Java Applications with MySQL using **JDBC** and **Hibernate**.
+- 🌱 I’m currently learning **Full Stack Development**
 
----
+- 💬 Ask me about **Java, MySQL**
 
-### 🛠 Tech Stack & Tools
+- ⚡ **Fun Fact:** I love exploring new backend architectures and solving logical problems.
 
-**Backend & Database**
+
+
+### 🛠 My working tools...
+
+
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
 ![SpringBoot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
-**Tools & IDEs**
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![MySQLWorkbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
 
-### 📊 GitHub Activity & Stats
-<p align="center">
+
+### 📊 My GitHub Stats
+
+
+
+<p align="left">
+
   <img src="https://github-readme-stats.vercel.app/api?username=hashini0123&show_icons=true&theme=radical" alt="GitHub Stats" height="170" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashini0123&layout=compact&theme=radical" alt="Top Languages" height="170" />
+
 </p>
 
-<p align="center">
+
+
+<p align="left">
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hashini0123&theme=radical" alt="GitHub Streak" />
+
 </p>
-
-
-
-
-
 
 
