@@ -3,9 +3,9 @@
 ### 🎓 Undergraduate Software Engineering Student | Java & Spring Boot Enthusiast
 
 <p align="left">
-<img src="https://img.shields.io/badge/Location-Galle%2C%20Sri%20Lanka-8E44AD?style=for-the-badge&logo=googlemaps&logoColor=white" />
-<a href="mailto:nanayakkarahashini5@gmail.com"><img src="https://img.shields.io/badge/Email-nanayakkarahashini5%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/hashini-nanayakkara-11402137a/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Location-Galle%2C%20Sri%20Lanka-8E44AD?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <a href="mailto:nanayakkarahashini5@gmail.com"><img src="https://img.shields.io/badge/Email-nanayakkarahashini5%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hashini-nanayakkara-11402137a/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -55,7 +55,6 @@
   <br>
   <i>"Code is like humor. When you have to explain it, it’s bad."</i> 🚀
 </p>
-
 
 
 
