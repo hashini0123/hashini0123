@@ -52,10 +52,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hashini0123&theme=radical" alt="GitHub Streak" />
 </p>
 
----
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i> 🚀
-</p>
+
 
 
 
