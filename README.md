@@ -49,13 +49,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hashini0123&theme=radical" alt="GitHub Streak" />
 </p>
 
----
-<p align="center">
-  <img src="https://img.shields.io/badge/Dynamic_Time-Refresh_to_Update-blue?style=flat-square&logo=clock" />
-  <br>
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i> 🚀
-</p>
-
 
 
 
