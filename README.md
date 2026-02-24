@@ -19,16 +19,11 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![SpringBoot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### 📈 Monthly Contribution Analysis
-> **Analysis for February 2026**
+### 📈 Contribution Graph - Hashini Nanayakkara
 
-| Metric | Details |
-| :--- | :--- |
-| **Peak Activity** | 12 Contributions on Day 18 |
-| **Consistency** | 5-day continuous streak (Day 25-29) |
-| **Top Levels** | Days 11, 18, and 20 showed high productivity |
-
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hashini0123&theme=github-compact&bg_color=0d1117&hide_border=true&area=true&color=40c463" width="100%" alt="Hashini's Activity Graph" />
+</p>
 
 ### 📊 My GitHub Stats
 
