@@ -1,7 +1,5 @@
 # Hi 👋, I'm Hashini Nanayakkara
 
-### 🎓 Undergraduate Software Engineering Student | Java & Spring Boot Enthusiast
-
 ### 🌐 Connect with me
 
 <p align="left">
